@@ -20,5 +20,5 @@ print(boto3.__version__)
 Step 6: Ensure VS Code uses the correct interpreter
 Press Ctrl + Shift + P → Search “Python: Select Interpreter”
 Choose your virtual environment (venv) or whichever interpreter has boto3 installed.
-requirements.txt setup
+steps.txt setup
 
